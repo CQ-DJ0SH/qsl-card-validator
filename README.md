@@ -1,5 +1,7 @@
 # QSL Card Validator
 
+![Screenshot](docs/screenshot.png)
+
 A self-hosted PHP web app for amateur radio operators that lets a contacted
 station verify their QSO with you and request a personalized QSL card.
 
