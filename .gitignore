@@ -1,0 +1,17 @@
+# Local configuration with secrets (API key, email, etc.)
+/config.php
+
+# Composer
+/vendor/
+/composer.lock
+
+# Generated QSL cards
+/output/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/

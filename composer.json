@@ -1,0 +1,13 @@
+{
+    "name": "qsl-card-validator/qsl-card-validator",
+    "description": "Self-hosted PHP web app that verifies a QSO via the QRZ.com Logbook API and generates a personalized QSL card (PDF/PNG) for download, email or postcard delivery.",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "keywords": ["amateur-radio", "ham-radio", "qsl", "qrz", "adif"],
+    "require": {
+        "php": ">=8.0",
+        "ext-curl": "*",
+        "setasign/fpdf": "^1.8",
+        "setasign/fpdi": "^2.6"
+    }
+}
